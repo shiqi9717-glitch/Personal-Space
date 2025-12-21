@@ -1,4 +1,6 @@
 #!/bin/bash
+#git-auto-push.sh "修复用户列表分页显示异常的bug"
+#使用方法如上！！！
 
 # 检查是否提供了 commit 评论参数
 if [ $# -eq 0 ]; then
